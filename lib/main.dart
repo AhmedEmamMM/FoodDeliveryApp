@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:food_delivery_app_with_backend/auth/login_or_register.dart';
-import 'package:food_delivery_app_with_backend/models/restaurant.dart';
 import 'package:food_delivery_app_with_backend/themes/theme_provider.dart';
 import 'package:provider/provider.dart';
 
